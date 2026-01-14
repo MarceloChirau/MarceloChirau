@@ -1,30 +1,19 @@
-# Welcome to My GitHub Profile! 👋
+# Marcelo Chirau
+Fullstack Developer | Sisak, Croatia
 
-Hi I'm Marcelo! I'm a passionate creative working at the intersection of **web development** and **visual storytelling**. My journey started with a love for crafting experiences—whether it's designing websites, writing clean code, or capturing the perfect shot through a lens.
+I build web applications using JavaScript and Express.js. My approach combines technical backend logic with the visual precision I developed through my professional photography background.
 
-## 🔭 What I’m Working On
-- 🌐 Building responsive and functional websites using **HTML**, **CSS**, and **JavaScript**.
-- 🎨 Showcasing my photography on a beautifully crafted portfolio hosted on **Netlify**.
-- 📂 Exploring ways to integrate modern technologies like **GitHub Pages** and **serverless functions** into my projects.
+### Technical Stack
+- Frontend: HTML, CSS, JavaScript 
+- Backend: Express.js, MongoDB
+- Tools: Git, Postman
 
-## 🌟 Skills & Tools
-- 💻 **Languages**: HTML, CSS, JavaScript, PHP (exploring modern frameworks too).
-- 🎨 **Creative Tools**: Photo editing and visual design that speaks volumes.
-- 🛠️ **Other Tools**: Git, GitHub Desktop, Netlify, and more.
-- 📸 **Photography**: From artistic wedding shots to innovative creative projects.
+### Current Focus
+- Developing RESTful APIs and server-side logic
+- Building responsive frontend interfaces
+- Managing my [Photography Portfolio](https://marcelophotography.netlify.app)
 
-## 📷 Photography Portfolio
-Check out my latest photography portfolio: [marcelophotography.netlify.app](https://marcelophotography.netlify.app)
-
-## ✨ A Little About Me
-- 🎯 **Mission**: To blend code and creativity to craft meaningful digital experiences.
-- 🧠 Always learning and experimenting with new tools and techniques.
-- 🌍 Based in Sisak, Croatia, but collaborating globally!
-
-## 📫 Let's Connect!
-- 💌 Feel free to reach out: [marcelochirau@gmail.com]
-- 📷 Follow my creative journey on Instagram: [marcel_chirau]
-- 🌐 Browse my projects below or connect with me here on GitHub!
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloChirau)](https://github.com/anuraghazra/github-readme-stats)
+### Contact
+- Email: marcelochirau@gmail.com
+- LinkedIn: www.linkedin.com/in/marcel-chirau-3928a3106
+- Instagram: @marcel_chirau
