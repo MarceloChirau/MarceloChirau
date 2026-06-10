@@ -18,5 +18,5 @@ I build web applications using JavaScript and modern backend frameworks. Current
 
 ### Contact
 - Email: marcelochirau@gmail.com
-- LinkedIn:[linkedin.com/in/marcel-chirau](www.linkedin.com/in/marcel-chirau-3928a3106)
+- LinkedIn:[linkedin.com/in/marcel-chirau](https://www.linkedin.com/in/marcel-chirau-3928a3106)
 
