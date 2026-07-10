@@ -6,7 +6,7 @@ I build web applications using JavaScript and modern backend frameworks. Current
 ### Technical Stack
 - Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js
 - Backend: Node.js, Express.js, MongoDB
-- Testing: Jest and Playwright
+- Testing: Jest, Playwright and WebdriverIO
 - Tools: Git, Postman, Github Actions
 
 ### Current Focus
